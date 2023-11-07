@@ -6,7 +6,7 @@ To design a website to perform mathematical calculations in server side.
 ## DESIGN STEPS:
 
 ### Step 1:
-    First fork the given repository link and then  copy your code.
+First fork the given repository link and then  copy your code.
 ### Step 2:
     open visual stuido and create a folder and then clone
     the copied link using 'git clone [your link ]'
