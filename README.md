@@ -8,27 +8,27 @@ To design a website to perform mathematical calculations in server side.
 ### Step 1:
 First fork the given repository link and then  copy your code.
 ### Step 2:
-    open visual stuido and create a folder and then clone
-    the copied link using 'git clone [your link ]'
-    and then activate Django.
+open visual stuido and create a folder and then clone
+the copied link using 'git clone [your link ]'
+and then activate Django.
 ### Step 3:
-    open the folder and then inside the repository folder create myproj folder using 'django-admin startproject myproj' command.
-    And then open myproj folder inside the myproj folder we can create a app folder called 'myapp' using 'python manage.py startapp [your app name]' command .
+open the folder and then inside the repository folder create myproj folder using 'django-admin startproject myproj' command.
+And then open myproj folder inside the myproj folder we can create a app folder called 'myapp' using 'python manage.py startapp [your app name]' command .
 
 ### Step 4:
-    open 'settings.py' inside the myproj folder and make some changes.
-    And then create a folder called 'templates' and then inside the templates create another folder (your app folder) named 'myapp'.
+open 'settings.py' inside the myproj folder and make some changes.
+And then create a folder called 'templates' and then inside the templates create another folder (your app folder) named 'myapp'.
 
 
 
 ### Step 5:
-    Inside the myapp folder create 2 html files named 'math.html' , 'result.html' and then paste the codes that are given below. And then make the changes in 'url.py' and 'views.py'.Save all files and then run the code using 'python manage.py runserver [port number]'
+Inside the myapp folder create 2 html files named 'math.html' , 'result.html' and then paste the codes that are given below. And then make the changes in 'url.py' and 'views.py'.Save all files and then run the code using 'python manage.py runserver [port number]'
 
 
 
 ### Step 6:
 
-    Publish the website in the given URL.
+Publish the website in the given URL.
 
 ## PROGRAM :
 ### codes to write in ' views.py '
