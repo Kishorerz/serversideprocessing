@@ -146,7 +146,8 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 ```
 
 ## OUTPUT:
-![Output](./Screenshot%202023-11-07%20115334.png)
+![Output](https://github.com/Kishorerz/serversideprocessing/assets/144451216/b8e93628-0476-444d-a51a-699fa4085c63)
+
 
 
 
